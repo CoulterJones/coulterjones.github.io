@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Investigative journalist who specializes in using data analysis, programming and open records to report compelling stories."
   location         : "New York"
-  employer         : "https://www.wsj.com/news/author/coulter-jones"
+  employer         : "The Wall Street Journal"
   pubmed           : 
   googlescholar    : 
   email            :
@@ -96,9 +96,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "coulterjones"
   google_plus      :
-  keybase          :  "https://keybase.io/coulterjones"
+  keybase          :  "coulterjones"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/coulterjones"
+  twitter          : "coulterjones"
   vine             :
   weibo            :
   xing             :

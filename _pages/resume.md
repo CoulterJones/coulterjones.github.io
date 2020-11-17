@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Journalism Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+###INVESTIGATIVE REPORTER** 
+####THE WALL STREET JOURNAL  //  NEW YORK, NY
+January 2​016​ – P​resent​​ /​​ ​July​ 2​014 –​ November 2​014 (on contract)
+Use data acquisition and quantitative analysis for high-impact reporting as part of the Journal’s investigative desk. Topics range from banking and investing to criminal justice and health care. 
 
-* Fall 2015: Research Assistant
-  * Github University
+* DATA REPORTER: November 2014 – December 2015
+  * MEDPAGE TODAY  //  NEW YORK, NY
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

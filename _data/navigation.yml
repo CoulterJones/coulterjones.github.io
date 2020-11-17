@@ -3,11 +3,8 @@ main:
   - title: "Work"
     url: /work/
 
-    - title: "Resume"
-    url: /resume/
-
- # - title: "Talks"
- #   url: /talks/    
+  - title: "Resume"
+    url: /resume/    
 
   - title: "Teaching"
     url: /teaching/    
